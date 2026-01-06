@@ -108,7 +108,7 @@ section:first-of-type{
     align-items: center;
     justify-content: flex-start;
     padding-left: 120px;
-    background: url(foto/bgcanvabyme.png);
+    background: url(bgcanvabyme.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -156,7 +156,7 @@ section:first-of-type{
     display: flex;
     align-items: center;
     flex-direction: column;
-    background: url(foto/4.png);
+    background: url(4.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -410,7 +410,7 @@ section:first-of-type{
 }
 /*== Customer Section ==*/
 .customer{
-    background: url("foto/8.png");
+    background: url("8.png");
     background-size: cover;
     background-position: center;
     padding: 6rem 0;
@@ -464,7 +464,7 @@ section:first-of-type{
 }
 /*==Our Partners Section==*/
 .brands{
-    background: url("foto/8.png");
+    background: url("8.png");
     background-size: cover;
     background-position: center;
     padding: 6rem 0;

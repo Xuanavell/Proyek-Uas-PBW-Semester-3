@@ -16,7 +16,7 @@
          <script src="main.js"></script>
         <!-- Navbar -->
          <header>
-            <a href="#" class="logo"><img src="foto/cupcake1.2.png" alt="">Xuanavell</a>
+            <a href="#" class="logo"><img src="cupcake1.2.png" alt="">Xuanavell</a>
             <div class="bx bx-menu" id="menu-icon"></div>
             <ul class="navbar">
             <li><a href="#home">Home</a></li>
@@ -45,7 +45,7 @@
                 <!-- Box 1 -->
                 <div class="about-box">
                     <div class="box-img">
-                        <img src="foto/scc.jpg" alt="">
+                        <img src="scc.jpg" alt="">
                     </div>
                     <h3>Strawberry Shortcake</h3>
                     <h2>$ 3.00</h2>
@@ -53,7 +53,7 @@
                 <!-- Box 2 -->
                  <div class="about-box">
                     <div class="box-img">
-                        <img src="foto/banana split.jpg" alt="">
+                        <img src="banana split.jpg" alt="">
                     </div>
                     <h3>Banana Split</h3>
                     <h2>$ 2.70</h2>
@@ -61,7 +61,7 @@
                 <!-- Box 3 -->
                  <div class="about-box">
                     <div class="box-img">
-                        <img src="foto/kukis.jpg" alt="">
+                        <img src="kukis.jpg" alt="">
                     </div>
                     <h3>Soft Cookies</h3>
                     <h2>$ 1.70</h2>
@@ -69,7 +69,7 @@
                 <!-- Box 4 -->
                  <div class="about-box">
                     <div class="box-img">
-                        <img src="foto/ice cream sundau.jpg" alt="">
+                        <img src="ice cream sundau.jpg" alt="">
                     </div>
                     <h3>Ice Cream Sundae</h3>
                     <h2>$ 2.00</h2>
@@ -87,7 +87,7 @@
                 <!-- Menu 1 -->
                 <div class="shop-box">
                     <div class="shop-img">
-                        <img src="foto/smt kotak new.jpg" alt="">
+                        <img src="smt kotak new.jpg" alt="">
                     </div>
                     <h3>Strawberry Mascarpone Tart</h3>
                     <h2>$ 3.30</h2>
@@ -105,7 +105,7 @@
                 <!-- Menu 2 -->
                 <div class="shop-box">
                     <div class="shop-img">
-                        <img src="foto/panna cotta.jpg" alt="">
+                        <img src="panna cotta.jpg" alt="">
                     </div>
                     <h3>Panna Cotta</h3>
                     <h2>$ 2.50</h2>
@@ -123,7 +123,7 @@
                 <!-- Menu 3 -->
                 <div class="shop-box">
                     <div class="shop-img">
-                        <img src="foto/brown.jpg" alt="">
+                        <img src="brown.jpg" alt="">
                     </div>
                     <h3>Brownies</h3>
                     <h2>$ 2.30</h2>
@@ -141,7 +141,7 @@
                 <!-- Menu 4 -->
                 <div class="shop-box">
                     <div class="shop-img">
-                        <img src="foto/bbc.jpg" alt="">
+                        <img src="bbc.jpg" alt="">
                     </div>
                     <h3>Basque Burnt Cheesecake</h3>
                     <h2>$ 4.00</h2>
@@ -159,7 +159,7 @@
                 <!-- Menu 5 -->
                 <div class="shop-box">
                     <div class="shop-img">
-                        <img src="foto/Soufflé pancake.jpg" alt="">
+                        <img src="Soufflé pancake.jpg" alt="">
                     </div>
                     <h3>Soufflé pancake</h3>
                     <h2>$ 3.70</h2>
@@ -177,7 +177,7 @@
                 <!-- Menu 6 -->
                 <div class="shop-box">
                     <div class="shop-img">
-                        <img src="foto/pavlova.jpg" alt="">
+                        <img src="pavlova.jpg" alt="">
                     </div>
                     <h3>Pavlova</h3>
                     <h2>$ 3.00</h2>
@@ -195,7 +195,7 @@
                 <!-- Menu 7 -->
                 <div class="shop-box">
                     <div class="shop-img">
-                        <img src="foto/cb.jpg" alt="">
+                        <img src="cb.jpg" alt="">
                     </div>
                     <h3>Crème Brûlée</h3>
                     <h2>$ 5.50</h2>
@@ -213,7 +213,7 @@
                 <!-- Menu 8 -->
                 <div class="shop-box">
                     <div class="shop-img">
-                        <img src="foto/Cinnamon Rolls with Heavy Cream.jpg" alt="">
+                        <img src="Cinnamon Rolls with Heavy Cream.jpg" alt="">
                     </div>
                     <h3>Cinnamon Rolls</h3>
                     <h2>$ 3.50</h2>
@@ -231,7 +231,7 @@
                 <!-- Menu 9 -->
                 <div class="shop-box">
                     <div class="shop-img">
-                        <img src="foto/opera cake.jpg" alt="">
+                        <img src="opera cake.jpg" alt="">
                     </div>
                     <h3>Opera Cake</h3>
                     <h2>$ 6.00</h2>
@@ -249,7 +249,7 @@
                 <!-- Menu 10 -->
                 <div class="shop-box">
                     <div class="shop-img">
-                        <img src="foto/bannofee cup.jpg" alt="">
+                        <img src="bannofee cup.jpg" alt="">
                     </div>
                     <h3>Bannofee Cup</h3>
                     <h2>$ 2.80</h2>
@@ -276,7 +276,7 @@
             <div class="customer-container">
                 <!-- Hao -->
                 <div class="box">
-                    <img src="foto/haoo.jpg" alt="">
+                    <img src="haoo.jpg" alt="">
                     <div class="stars">
                         <i class='bx  bxs-star' style='color:#a5231c'></i> 
                         <i class='bx  bxs-star' style='color:#a5231c'></i> 
@@ -289,7 +289,7 @@
                 </div>
                 <!-- Renjun -->
                 <div class="box">
-                    <img src="foto/njun.jpg" alt="">
+                    <img src="njun.jpg" alt="">
                     <div class="stars">
                         <i class='bx  bxs-star' style='color:#a5231c'></i> 
                         <i class='bx  bxs-star' style='color:#a5231c'></i> 
@@ -302,7 +302,7 @@
                 </div>
                 <!-- Yaxuan -->
                 <div class="box">
-                    <img src="foto/yaxuan.jpeg" alt="">
+                    <img src="yaxuan.jpeg" alt="">
                     <div class="stars">
                         <i class='bx  bxs-star' style='color:#a5231c'></i> 
                         <i class='bx  bxs-star' style='color:#a5231c'></i> 
@@ -322,9 +322,9 @@
                     <h2>Our Brands Partners</h2>
                 </div>
                 <div class="brands-container">
-                    <img src="foto/Gofood.jpg" alt="">
-                    <img src="foto/GrabFood.jpg" alt="">
-                    <img src="foto/Shopeefood.jpg" alt="">
+                    <img src="Gofood.jpg" alt="">
+                    <img src="GrabFood.jpg" alt="">
+                    <img src="Shopeefood.jpg" alt="">
                 </div>
              </section> 
         <!-- Contact Us -->
